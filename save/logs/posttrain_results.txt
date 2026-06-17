@@ -1,0 +1,10 @@
+Evaluation Mode: Pre-training Post-training Verification
+Evaluation Device: cuda
+Training Hyperparameters: batch_size=300, lr=0.0040, epochs=360
+Post-training Best Training Accuracy: 0.9721998388396454
+Post-training Best Epoch: 207
+Test Set Accuracy: 0.8524436090225563
+Test Set Precision: 0.8539114043355325
+Test Set Recall: 0.8507042253521127
+Test Set F1 Score: 0.852304797742239
+Test Set AUC: 0.9340090716768469

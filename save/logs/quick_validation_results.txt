@@ -1,0 +1,9 @@
+Evaluation Mode: Quick Verification
+Device: cuda
+Test Set Accuracy: 0.875
+Test Set Precision: 0.8709377901578459
+Test Set Recall: 0.8807511737089202
+Test Set F1: 0.8758169934640523
+Test Set AUC: 0.9424880420812742
+ROC/PR Curve Save Path: ./save\figs\post_roc_pr.png
+Confusion Matrix Save Path: ./save\figs\post_confusion.png
