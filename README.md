@@ -135,11 +135,6 @@ Input (21 features)
                                     Concat → MLP → Output (2)
 ```
 
-Key components:
-- **Attention**: Scaled dot-product with 8 heads, dimension 16 per head
-- **FeedForward**: GEGLU activation with 4× expansion ratio
-- **Residual + PreNorm**: Standard transformer residual connections with pre-layer normalization
-- **Regularization**: Dropout at attention and feed-forward layers
 
 ---
 
