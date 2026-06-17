@@ -1,9 +1,0 @@
-Evaluation Mode: Quick Verification
-Evaluation Device: cuda
-Model Path: ./Experiment Templates\checkpoints\post_best_auc_model.pth
-Test Set Sample Count: 2128
-Accuracy: 0.875
-Precision: 0.8709377901578459
-Recall: 0.8807511737089202
-F1 Score: 0.8758169934640523
-AUC: 0.9424880420812742
